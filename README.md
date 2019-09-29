@@ -1,2 +1,3 @@
-# python-playgorund
-Playground for python
+# Python Playgorund
+
+Some arbitrary python stuff, just for learning
