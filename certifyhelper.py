@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import wincertstore
 import atexit
 import ssl

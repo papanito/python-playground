@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # simple for-loop
 start = 0
 end   = 10
